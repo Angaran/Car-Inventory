@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CustomerEntry.cs": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Angaran\\Downloads\\CustomerViewer2021 final\\CustomerViewer2021-master\\bin\\Debug\\netcoreapp3.1\\CustomerViewer.exe"
+    }
+  }
+}
